@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.ginger-garlic-header-container {
+    width: 1366px;
+    height: 5280px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ginger-garlic-logo {
+    width: 258px;
+    height: 141px;
+}
