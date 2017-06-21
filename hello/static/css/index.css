@@ -113,7 +113,7 @@
 
 .contact-text {
     width: 131px;
-    height: 30px;
+    height: 35px;
     font-family: Open Sans;
     font-size: 25px;
     font-weight: bold;
@@ -121,8 +121,355 @@
     color: #fefefe;
 }
 
+.white-rectangle {
+    width: 1366px;
+    height: 15px;
+    background-color: #ffffff;
+}
+
+.farm-fresh-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.farm-fresh-fixed-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1366px;
+    height: 454px;
+}
 
 
+.farm-fresh-vegetable {
+    width: 676px;
+    height: 454px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
+.white-vertical-rectangle {
+    width: 15px;
+    height: 454px;
+    background-color: #ffffff;
+}
 
+.chopped-vegetable {
+    width: 675px;
+    height: 455px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.farm-fresh-text-container {
+    width: 400px;
+    height: 400px;
+    background-color: #eb5e48;
+    position: absolute;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.farm-fresh-text {
+    width: 257px;
+    height: 160px;
+    font-family: Pacifico;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 1.2em;
+    padding-top: 40px;
+}
+
+.chopping-text {
+    width: 257px;
+    height: 90px;
+    font-family: Open Sans;
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.spice-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spice-fixed-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spice-items {
+    width: 675px;
+    height: 454px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.exotic-spices-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 676px;
+    height: 455px;
+    background-color: #3f4f69;
+    flex-direction: column;
+}
+
+.spice-pic {
+    width: 96px;
+    height: 83px;
+    padding-bottom: 20px;
+}
+
+.exotic-spice-text {
+    width: 561px;
+    height: 80px;
+    font-family: Pacifico;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.indians-understand-indians {
+    width: 541px;
+    height: 100px;
+    font-family: Open Sans;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.gourmet-treat-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gourmet-treat-fixed-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1366px
+}
+
+.rice-pic {
+    width: 674px;
+    height: 454px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.naan-pic {
+    width: 674px;
+    height: 454px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.gourmet-treat-text-container {
+    width: 400px;
+    height: 400px;
+    background-color: #3f4f69;
+    position: absolute;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.gourmet-fresh-text {
+    width: 298px;
+    height: 152px;
+    font-family: Pacifico;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 1.2em;
+    padding-top: 30px;
+}
+
+.gourmet-text-subtitle {
+    width: 298px;
+    height: 112px;
+    font-family: Open Sans;
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 10px;
+}
+
+.what-comes-box-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.what-comes-box-fixed-container {
+    width: 1366px;
+    height: 1836px;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+.what-comes-text {
+    width: 1000px;
+    height: 100px;
+    font-family: Pacifico;
+    font-size: 55px;
+    text-align: center;
+    color: #eb5e48;
+    line-height: 1em;
+    padding-top: 100px;
+    text-decoration: underline;
+}
+
+.white-rectangle-red-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.white-rectangle-red {
+    background-color: #eb5e48;
+    width: 1366px;
+    height: 15px;
+}
+
+.meat-lovers-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.meat-lovers-fixed-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.chicken-pic {
+    width: 684px;
+    height: 455px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.fish-pic {
+    width: 684px;
+    height: 455px;
+}
+
+.meat-lovers-text {
+    width: 300px;
+    height: 200px;
+    font-family: Pacifico;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 1.2em;
+    padding-top: 50px;
+}
+
+.ginger-garlic-vendor {
+    width: 280px;
+    height: 90px;
+    font-family: Open Sans;
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 10px;
+}
+
+.ready-made-food-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ready-made-food-fixed-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.palak-paneer-pic {
+    width: 676px;
+    height: 452px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.result-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #3a4e6b;
+    width: 684px;
+    height: 454px;
+}
+
+.garlic-icon {
+    width: 83px;
+    height: 70px;
+    padding-top: 60px;
+}
+
+.result-text {
+    width: 561px;
+    height: 120px;
+    font-family: Pacifico;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 1.3em;
+    padding-top: 20px;
+}
+
+.ginger-garlic-result-note {
+    width: 561px;
+    height: 120px;
+    font-family: Open Sans;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.ginger-garlic-footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-fixed-container {
+    width: 1366px;
+    height: 180px;
+    background-color: #eb5e48;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    width: 842px;
+    height: 87px;
+    font-family: Pacifico;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 1.4em;
+}
 
