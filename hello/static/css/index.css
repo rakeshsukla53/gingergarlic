@@ -412,6 +412,7 @@
     height: 452px;
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 }
 
 .result-container {
