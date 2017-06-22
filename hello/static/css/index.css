@@ -370,6 +370,8 @@
 .fish-pic {
     width: 684px;
     height: 455px;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .meat-lovers-text {
